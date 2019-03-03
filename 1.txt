@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 qwert
 
 qqqqqqqqqqqqqqqqqqqqqqqqq
 wwwwwwwwwwwwwwwwwwwwwwwww
 eeeeeeeeeeeeeeeeeeeeeeeeee
 rrrrrrrrrrrrrrrrrrrrrrrrrr
+=======
+123456789
+>>>>>>> db67cc363d002db06c5e9d7477965a27f5b75d07
